@@ -106,7 +106,7 @@ Alright, so now we’re getting there. I have outlined the basics of what we’r
       $ cd ~/RR
 
 ##### Initializing the RR repo and downloading the manifest
-
+      $  repo init -u https://github.com/mandroject/f3040023f5fc62f214f00496d0da589f.git -b rremix_armani-nougat
       $  repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b nougat
 
 ##### Syncing the source
