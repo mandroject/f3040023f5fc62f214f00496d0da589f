@@ -34,7 +34,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="android" name="platform_manifest"/>
+  <project path="android" name="mandroject/f3040023f5fc62f214f00496d0da589f" remote="XOSPD" revision="xosp-nougat"/>
   <project path="build" name="android_build" groups="pdk,tradefed">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
