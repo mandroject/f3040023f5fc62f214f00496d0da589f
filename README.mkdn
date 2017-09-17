@@ -7,6 +7,7 @@ with [Git and Repo](http://source.android.com/source/version-control.html).
 
 To initialize your local repository using the XOSP trees, use a command like this:
 
+    repo init -u git://github.com/mandroject/f3040023f5fc62f214f00496d0da589f.git -b xosp-nougat
     repo init -u git://github.com/XOSP-Project/platform_manifest.git -b xosp-n-rebase
     
 Then to sync up:

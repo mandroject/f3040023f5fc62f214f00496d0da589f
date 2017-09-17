@@ -498,5 +498,6 @@
   <project path="vendor/xosp" name="android_vendor_xosp"/>
 
   <include name="snippets/additions.xml" />
+  <include name="snippets/maru.xml" />
 
 </manifest>
