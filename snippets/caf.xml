@@ -153,7 +153,7 @@
   <project groups="pdk" name="platform/external/jmdns" path="external/jmdns"/>
   <project groups="pdk" name="platform/external/jsilver" path="external/jsilver"/>
   <project groups="pdk" name="platform/external/jsmn" path="external/jsmn"/>
-  <project name="platform/external/json-c" path="external/json-c"/>
+  <!-- <project name="platform/external/json-c" path="external/json-c"/> -->
   <project groups="pdk" name="platform/external/jsoncpp" path="external/jsoncpp"/>
   <project groups="pdk" name="platform/external/jsr305" path="external/jsr305"/>
   <project groups="pdk" name="platform/external/jsr330" path="external/jsr330"/>
