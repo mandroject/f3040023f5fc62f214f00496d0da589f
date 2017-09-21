@@ -19,7 +19,7 @@
            sync-j="16" />
 
   <remote name="caf" 
-          fetch="git://codeaurora.org/quic/la" 
+          fetch="git://codeaurora.org/quic/" 
           review="codeaurora.org" 
           revision="android-external.lnx.2.0.r5-rel" />
 
