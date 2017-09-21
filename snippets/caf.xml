@@ -491,7 +491,7 @@
   <project name="platform/system/webservd" path="system/webservd" revision="android-framework.lnx.2.0.r5-rel"/>
   <project groups="tools" name="platform/tools/external/fat32lib" path="tools/external/fat32lib"/>
   <project groups="tools" name="platform/tools/external/gradle" path="tools/external/gradle"/>
-  <project groups="pdk" name="platform/tools/test/connectivity" path="tools/test/connectivity" revision="android-framework.lnx.2.0.r5-rel"/>
+  <!-- <project groups="pdk" name="platform/tools/test/connectivity" path="tools/test/connectivity" revision="android-framework.lnx.2.0.r5-rel"/> -->
   <!-- <project name="platform/vendor/codeaurora/telephony" path="vendor/codeaurora/telephony" revision="atel.lnx.2.0.r5-rel"/> -->
   <!-- <project name="platform/vendor/nxp/opensource/external/libnfc-nci" path="vendor/nxp/opensource/external/libnfc-nci" revision="nfc.lnx.2.0.r5-rel"/> -->
   <!-- <project name="platform/vendor/nxp/opensource/frameworks" path="vendor/nxp/opensource/frameworks" revision="nfc.lnx.2.0.r5-rel"/> -->
