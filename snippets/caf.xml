@@ -284,8 +284,8 @@
   <!-- <project groups="pdk" name="la/platform/external/toybox" remote="caf" path="external/toybox"/> -->
   <project groups="pdk" name="la/platform/external/tpm2" remote="caf" path="external/tpm2"/>
   <!-- <project groups="pdk" name="la/platform/external/tremolo" remote="caf" path="external/tremolo"/> -->
-  <project groups="pdk" name="la/platform/external/unicode" remote="caf" path="external/unicode"/>
-  <project name="la/platform/external/universal-tween-engine" remote="caf" path="external/universal-tween-engine"/>
+  <!-- <project groups="pdk" name="la/platform/external/unicode" remote="caf" path="external/unicode"/> -->
+  <!-- <project name="la/platform/external/universal-tween-engine" remote="caf" path="external/universal-tween-engine"/> -->
   <project groups="pdk" name="la/platform/external/v8" remote="caf" path="external/v8"/>
   <project groups="pdk" name="la/platform/external/valgrind" remote="caf" path="external/valgrind"/>
   <project groups="vboot,pdk-fs" name="la/platform/external/vboot_reference" remote="caf" path="external/vboot_reference"/>

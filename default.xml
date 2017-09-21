@@ -259,8 +259,8 @@
   <!-- <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" /> -->
   <!-- <project path="external/tlsdate" name="platform/external/tlsdate" groups="pdk" remote="aosp" /> -->
   <!-- <project path="external/tpm2" name="platform/external/tpm2" groups="pdk" remote="aosp" /> -->
-  <!-- <project path="external/unicode" name="platform/external/unicode" groups="pdk" remote="aosp" /> -->
-  <!-- <project path="external/universal-tween-engine" name="platform/external/universal-tween-engine" remote="aosp" /> -->
+  <project path="external/unicode" name="platform/external/unicode" groups="pdk" remote="aosp" />
+  <project path="external/universal-tween-engine" name="platform/external/universal-tween-engine" remote="aosp" />
   <!-- <project path="external/v8" name="platform/external/v8" groups="pdk" remote="aosp" /> -->
   <!-- <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" remote="aosp" /> -->
   <!-- <project path="external/vboot_reference" name="platform/external/vboot_reference" groups="vboot,pdk-fs" remote="aosp" /> -->
