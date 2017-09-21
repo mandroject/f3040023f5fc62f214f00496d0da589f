@@ -95,13 +95,13 @@
 	<project path="hardware/intel/common/libmix" name="LineageOS/android_hardware_intel_common_libmix" groups="intel,pdk" />
 	<project path="hardware/broadcom/libbt" name="LineageOS/android_hardware_broadcom_libbt" groups="pdk" />
 	<project path="hardware/broadcom/wlan" name="LineageOS/android_hardware_broadcom_wlan" groups="pdk,broadcom_wlan" />
-	<project path="hardware/intel/common/libva" name="LineageOS/android_hardware_intel_common_libva" groups="intel,pdk" />
-	<project path="hardware/intel/common/libwsbm" name="LineageOS/android_hardware_intel_common_libwsbm" groups="intel,pdk" />
-	<project path="hardware/intel/common/omx-components" name="LineageOS/android_hardware_intel_common_omx-components" groups="intel,pdk" />
-	<project path="hardware/intel/common/utils" name="LineageOS/android_hardware_intel_common_utils" groups="intel,pdk" />
-	<project path="hardware/intel/img/hwcomposer" name="LineageOS/android_hardware_intel_img_hwcomposer" groups="intel,pdk" />
-	<project path="hardware/intel/img/psb_headers" name="LineageOS/android_hardware_intel_img_psb_headers" groups="intel,pdk" />
-	<project path="hardware/intel/img/psb_video" name="LineageOS/android_hardware_intel_img_psb_video" groups="intel,pdk" />
+	<!-- <project path="hardware/intel/common/libva" name="LineageOS/android_hardware_intel_common_libva" groups="intel,pdk" /> -->
+	<!-- <project path="hardware/intel/common/libwsbm" name="LineageOS/android_hardware_intel_common_libwsbm" groups="intel,pdk" /> -->
+	<!-- <project path="hardware/intel/common/omx-components" name="LineageOS/android_hardware_intel_common_omx-components" groups="intel,pdk" /> -->
+	<!-- <project path="hardware/intel/common/utils" name="LineageOS/android_hardware_intel_common_utils" groups="intel,pdk" /> -->
+	<!-- <project path="hardware/intel/img/hwcomposer" name="LineageOS/android_hardware_intel_img_hwcomposer" groups="intel,pdk" /> -->
+	<!-- <project path="hardware/intel/img/psb_headers" name="LineageOS/android_hardware_intel_img_psb_headers" groups="intel,pdk" /> -->
+	<!-- <project path="hardware/intel/img/psb_video" name="LineageOS/android_hardware_intel_img_psb_video" groups="intel,pdk" /> -->
 	<project path="hardware/invensense" name="LineageOS/android_hardware_invensense" groups="invensense,pdk" />
 	<project path="hardware/libhardware" name="LineageOS/android_hardware_libhardware" groups="pdk" />
 	<project path="hardware/libhardware_legacy" name="LineageOS/android_hardware_libhardware_legacy" groups="pdk" />
@@ -203,5 +203,4 @@
 	<project path="vendor/qcom/opensource/dataservices" name="LineageOS/android_vendor_qcom_opensource_dataservices" />
 	<project path="vendor/qcom/opensource/dpm" name="LineageOS/android_vendor_qcom_opensource_dpm" />
 	<project path="vendor/qcom/opensource/time-services" name="LineageOS/android_vendor_qcom_opensource_time-services" />
-
 </manifest>
