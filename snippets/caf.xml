@@ -189,7 +189,7 @@
   <project groups="pdk" name="la/platform/external/libogg" remote="caf" path="external/libogg"/>
   <project groups="pdk" name="la/platform/external/libopus" remote="caf" path="external/libopus"/>
   <project groups="pdk" name="la/platform/external/libpcap" remote="caf" path="external/libpcap"/>
-  <!-- <project groups="pdk" name="la/platform/external/libphonenumber" remote="caf" path="external/libphonenumber"/> -->
+  <project groups="pdk" name="la/platform/external/libphonenumber" remote="caf" path="external/libphonenumber"/>
   <project groups="pdk" name="la/platform/external/libpng" remote="caf" path="external/libpng"/>
   <!-- <project groups="pdk" name="la/platform/external/libselinux" remote="caf" path="external/libselinux"/> -->
   <project groups="pdk" name="la/platform/external/libunwind" remote="caf" path="external/libunwind"/>
