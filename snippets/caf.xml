@@ -285,7 +285,7 @@
   <project groups="pdk" name="platform/external/tpm2" path="external/tpm2"/>
   <!-- <project groups="pdk" name="platform/external/tremolo" path="external/tremolo"/> -->
   <!-- <project groups="pdk" name="platform/external/unicode" path="external/unicode"/> -->
-  <project name="platform/external/universal-tween-engine" path="external/universal-tween-engine"/>
+  <!-- <project name="platform/external/universal-tween-engine" path="external/universal-tween-engine"/> -->
   <project groups="pdk" name="platform/external/v8" path="external/v8"/>
   <project groups="pdk" name="platform/external/valgrind" path="external/valgrind"/>
   <project groups="vboot,pdk-fs" name="platform/external/vboot_reference" path="external/vboot_reference"/>
