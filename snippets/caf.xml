@@ -21,7 +21,7 @@
     <copyfile dest="build.sh" src="build.sh"/>
     <copyfile dest="vendor/qcom/build/tasks/generate_extra_images.mk" src="generate_extra_images.mk"/> 
   </project> -->
-  <project name="device/qcom/sepolicy" revision="sepolicy.lnx.2.0.r5-rel"/>
+  <project name="la/device/qcom/sepolicy" remote="caf" revision="sepolicy.lnx.2.0.r5-rel"/>
   <!-- <project groups="pdk" name="device/sample" revision="android-framework.lnx.2.0.r5-rel"/> -->
   <!-- <project name="kernel/lk" remote="caf" path="bootable/bootloader/lk" revision="lk.lnx.1.0.r5-rel"/> -->
   <!-- <project name="kernel/msm-3.18" revision="rel/msm-3.18.r5"/> -->
