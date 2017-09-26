@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  	<project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" groups="pdk-fs" clone-depth="1" remote="aosp" />
+  	<!-- <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" groups="pdk-fs" clone-depth="1" remote="aosp" /> -->
   	<!-- <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" groups="pdk-fs" clone-depth="1" remote="aosp" /> -->
   	<project path="packages/apps/SnapdragonCamera" name="mandroject/c53c8d17f8f6f5f74362e6611ce6c906" remote="github" revision="maru-nougat"/>
 </manifest>
