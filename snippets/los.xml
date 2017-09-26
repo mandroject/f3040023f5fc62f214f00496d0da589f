@@ -123,7 +123,7 @@
 	<project path="hardware/ril" name="LineageOS/android_hardware_ril" groups="pdk" />
 	<project path="hardware/ti/omap4xxx" name="LineageOS/android_hardware_ti_omap4xxx" groups="omap4,pdk" />
 	<project path="libcore" name="LineageOS/android_libcore" groups="pdk" />	
-	<project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" />
+	<!-- <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" /> -->
 	<project path="packages/apps/Bluetooth" name="LineageOS/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
 	<project path="packages/apps/Calendar" name="LineageOS/android_packages_apps_Calendar" groups="pdk-fs" />
 	<project path="packages/apps/Camera2" name="LineageOS/android_packages_apps_Camera2" groups="pdk-fs" />
