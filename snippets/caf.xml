@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!--Snapdragon Apps-->
+  <project path="packages/apps/SnapdragonMusic" name="platform/packages/apps/SnapdragonMusic" groups="pdk" remote="caf" revision="LA.UM.5.5.r1-05800-8x96.0" />
+  <project path="packages/apps/SnapdragonLauncher" name="platform/packages/apps/SnapdragonLauncher" groups="pdk" remote="caf" revision="LA.UM.5.5.r1-05800-8x96.0" />
+  <project path="packages/apps/SnapdragonGallery" name="platform/packages/apps/SnapdragonGallery" groups="pdk" remote="caf" revision="LA.UM.5.5.r1-05800-8x96.0" />
+
+
   <!-- <project groups="pdk-cw-fs,pdk-fs" name="device/common" revision="android-framework.lnx.2.0.r5-rel"/> -->
   <!-- <project groups="pdk" name="device/generic/arm64" revision="android-framework.lnx.2.0.r5-rel"/> -->
   <!-- <project groups="pdk" name="device/generic/armv7-a-neon" revision="android-framework.lnx.2.0.r5-rel"/> -->

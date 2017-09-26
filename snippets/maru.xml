@@ -3,17 +3,4 @@
   	<project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" groups="pdk-fs" clone-depth="1" remote="aosp" />
   	<project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" groups="pdk-fs" clone-depth="1" remote="aosp" />
   	<project path="packages/apps/SnapdragonCamera" name="mandroject/c53c8d17f8f6f5f74362e6611ce6c906" remote="github" revision="maru-nougat"/>
-
-  	<!--
-	<remove-project name="platform/prebuilts/clang/darwin-x86/host/3.6" />
-	<remove-project name="platform/prebuilts/clang/host/darwin-x86" />
-	<remove-project name="LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9" />
-	<remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" />
-	<remove-project name="LineageOS/android_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.9" />
-	<remove-project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
-	<remove-project name="LineageOS/android_prebuilts_gcc_darwin-x86_x86_x86_64-linux-android-4.9" />
-	<remove-project name="platform/prebuilts/gdb/darwin-x86" />
-	<remove-project name="platform/prebuilts/go/darwin-x86" />
-	<remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" /> 
--->
 </manifest>
