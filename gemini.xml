@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="los"
+           	fetch="https://github.com/" 
+           	revision="lineage-15.0"
+           	sync-c="true"
+          	sync-j="4"  
+          	clone-depth="1" />
+
+	<!-- DEVICE, KERNEL & PROPRIETARY -->
+  <project path="device/xiaomi/gemini" name="LineageOS/android_device_xiaomi_gemini" remote="los" />
+	<project path="device/xiaomi/gemini" name="LineageOS/android_device_xiaomi_msm8996-common" remote="los" />
+  <project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="los" />
+  <project path="vendor/xiaomi" name="ACollect/diordna_rodnev_imoaix" remote="github" revision="gemini-nougat" />
+
+  <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="los" />
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="los" />
+  <project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" remote="los" />
+  <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" remote="los" />
+	<project path="vendor/nxp-nfc/opensource/Nfc" name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" remote="los" />
+
+  <!-- APPS -->  
+  <!-- <project path="packages/apps/SnapdragonCamera" name="ACollect/diordna_segakcap_sppa_AremaCnogardpans" remote="los" revision="n-mr2"/> -->
+  <!-- <project path="packages/apps/SnapdragonGallery" name="ACollect/diordna_segakcap_sppa_YrellaGnogardpans" remote="los" revision="n-mr2"/> -->
+  <!-- <project path="packages/apps/SnapdragonMusic" name="ACollect/diordna_segakcap_sppa_CisuMnogardpans" remote="los" revision="n-mr2"/> -->
+</manifest>
