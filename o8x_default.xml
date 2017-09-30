@@ -3,13 +3,15 @@
 
   <!-- Github remote -->
   <remote  name="github"
-           fetch="https://github.com/" />
+           fetch="https://github.com/" 
+           clone-depth="1" />
 
   <!-- DU remote -->
   <remote  name="du"
            revision="o8x"
            fetch="https://github.com/DirtyUnicorns/"
-           review="gerrit.dirtyunicorns.com" />
+           review="gerrit.dirtyunicorns.com" 
+           clone-depth="1" />
 
   <!-- DU REPOS -->
 
