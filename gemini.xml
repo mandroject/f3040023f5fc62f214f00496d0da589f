@@ -9,7 +9,7 @@
 
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
   <project path="device/xiaomi/gemini" name="LineageOS/android_device_xiaomi_gemini" remote="los" />
-	<project path="device/xiaomi/gemini" name="LineageOS/android_device_xiaomi_msm8996-common" remote="los" />
+	<project path="device/xiaomi/msm8996-common" name="LineageOS/android_device_xiaomi_msm8996-common" remote="los" />
   <project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="los" />
   <project path="vendor/xiaomi" name="ACollect/diordna_rodnev_imoaix" remote="github" revision="gemini-nougat" />
 
