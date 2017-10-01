@@ -33,7 +33,7 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project> -->
 
-  <project path="manifest" name="android_manifest" remote="du" />
+  <!-- <project path="manifest" name="mandroject/f3040023f5fc62f214f00496d0da589f" remote="du" /> -->
 
   <!-- external -->
 
