@@ -22,6 +22,7 @@
 
 
 
+  <project path="bionic" name="ACollect/android_bionic" remote="los" revision="dirty-oreo" />
 	<project path="build/soong" name="ACollect/diordna_dliub_gnoos" remote="los" revision="dirty-oreo" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
