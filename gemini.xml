@@ -8,10 +8,9 @@
           	clone-depth="1" />
 
 	<!-- DEVICE, KERNEL & PROPRIETARY -->
-  <project path="device/xiaomi/gemini" name="LineageOS/android_device_xiaomi_gemini" remote="los" />
-	<project path="device/xiaomi/msm8996-common" name="LineageOS/android_device_xiaomi_msm8996-common" remote="los" />
+  <project path="device/xiaomi/gemini" name="ACollect/inimeg_imoaix_ecived" remote="los" revision="dirty-oreo" />
   <project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="los" />
-  <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
+  <project path="vendor/xiaomi" name="ACollect/diordna_rodnev_imoaix" remote="github" revision="gemini-nougat" />
 
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="los" />
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" remote="los" />
