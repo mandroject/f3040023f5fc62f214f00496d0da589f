@@ -28,10 +28,10 @@
   </project>
   <project path="build/blueprint" name="android_build_blueprint" remote="du" />
   <project path="build/kati" name="android_build_kati" remote="du" />
-  <project path="build/soong" name="android_build_soong" remote="du" >
+  <!-- <project path="build/soong" name="android_build_soong" remote="du" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
-  </project>
+  </project> -->
 
   <project path="manifest" name="android_manifest" remote="du" />
 

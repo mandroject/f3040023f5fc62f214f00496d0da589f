@@ -18,7 +18,14 @@
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="los" />
   <project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" remote="los" />
   <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" remote="los" />
-	<project path="vendor/nxp-nfc/opensource/Nfc" name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" remote="los" />
+  <project path="vendor/nxp-nfc/opensource/Nfc" name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" remote="los" />
+
+
+
+	<project path="build/soong" name="ACollect/diordna_dliub_gnoos" remote="du" revision="dirty-oreo" >
+    <linkfile src="root.bp" dest="Android.bp" />
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  </project>
 
   <!-- APPS -->  
   <!-- <project path="packages/apps/SnapdragonCamera" name="ACollect/diordna_segakcap_sppa_AremaCnogardpans" remote="los" revision="n-mr2"/> -->
